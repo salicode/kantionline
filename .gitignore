@@ -1,0 +1,16 @@
+*.pyc
+*.sqlite3
+*.xlsx
+.vscode
+*.xml
+.ionide
+__pychace__/
+.idea/
+__pycache__/
+.env
+env
+venv
+adams/app/templates/frontend
+settings_override.py
+adams/settings.py
+.whl
